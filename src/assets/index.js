@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import backend from './backend.png';
+
 import smart from './smart.png';
 import blockchain from './blockchain.png';
 import web from './web.png';
@@ -9,7 +9,7 @@ import close from './close.svg';
 
 import css from './tech/css.png';
 import solidity from './tech/solidity.png';
-import figma from './tech/figma.png';
+
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
@@ -31,7 +31,6 @@ import ticket from './ticket.png';
 
 export {
   logo,
-  backend,
   smart,
   blockchain,
   web,
@@ -40,7 +39,6 @@ export {
   close,
   css,
   solidity,
-  figma,
   git,
   html,
   javascript,
