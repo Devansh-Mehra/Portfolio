@@ -1,6 +1,5 @@
 import {
   blockchain,
-  backend,
   smart,
   web,
   javascript,
@@ -13,7 +12,6 @@ import {
   hardhat,
   mongodb,
   git,
-  figma,
   solidity,
   magazine3,
   ejyhealth,
@@ -69,7 +67,7 @@ const technologies = [
     name: 'Tailwindcss',
     icon: tailwind,
   },
-  
+
   {
     name: 'JavaScript',
     icon: javascript,
