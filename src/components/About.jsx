@@ -49,11 +49,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled Software Developer with experience in JavaScript and
-        Solidity and expertise in frameworks like ReactJS. I'm a quick learner
-        and a collaborator to create efficient, scalable, and user-friendly
-        solutions that solve real-world problems. Let's work together to bring
-        your ideas to life!
+        A Software developer with specialized skills in Blockchain & Web
+        Development having experience of JavaScript & Solidity with having
+        expertise in frameworks like ReactJS . A quick learner, team player,
+        able to collaborate , create, efficient, scalable, user-friendly
+        solutions solving real-world challenges. Bring your ideas to life!
+        working together.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
