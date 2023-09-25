@@ -54,7 +54,12 @@ const About = () => {
         expertise in frameworks like ReactJS . A quick learner, team player,
         able to collaborate , create, efficient, scalable, user-friendly
         solutions solving real-world challenges. Bring your ideas to life!
-        working together.
+        working together.Projects demonstrating skills & experience through
+        real-world examples of my internship. Each project is briefly described
+        with links to code repositories with live demos. It showcases
+        dedication, determination, out of box thinking ability to solve complex
+        problems, working with different technologies, managing and completing
+        all projects timely & effectively.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
