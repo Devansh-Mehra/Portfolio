@@ -108,6 +108,18 @@ const technologies = [
 const experiences = [
   {
     title: 'Software Developer',
+    company_name: 'Samsung R&D Institute',
+    icon: samsung,
+    iconBg: '#383E56',
+    date: 'Dec 2022 - Present',
+    points: [
+      'Led a functional team of four members in successfully developing a Software as a Service application for real work object serialization using Blockchain Technology , Non Fungible Token (NFT) concepts and Web Development (React.JS) to prevent counterfeiting of real world products',
+      'An advanced research project and work with Proof of origin consensus with ERC - 721,a standard for represent.',
+      'Technology Used - React.JS, Web Development, Smart Contract Development, Blockchain Technology, Inter Planetary File System.',
+    ],
+  },
+  {
+    title: 'Software Developer',
     company_name: 'Magazine3',
     icon: magazine3,
     iconBg: '#383E56',
@@ -128,18 +140,6 @@ const experiences = [
       'Led a team in researching and implementing Blockchain and Web3 Technologies for secure healthcare document storage and decentralized identity verification.',
       'Conducted in-depth research on integrating the Ayushman Bharat Digital Mission Sandbox into a decentralized environment.',
       'Developed expertise in Research and Development, with a focus on Blockchain Technology and Smart Contracts.',
-    ],
-  },
-  {
-    title: 'Software Developer',
-    company_name: 'Samsung R&D Institute',
-    icon: samsung,
-    iconBg: '#383E56',
-    date: 'Dec 2022 - Present',
-    points: [
-      'Led a functional team of four members in successfully developing a Software as a Service application for real work object serialization using Blockchain Technology , Non Fungible Token (NFT) concepts and Web Development (React.JS) to prevent counterfeiting of real world products',
-      'An advanced research project and work with Proof of origin consensus with ERC - 721,a standard for represent.',
-      'Technology Used - React.JS, Web Development, Smart Contract Development, Blockchain Technology, Inter Planetary File System.',
     ],
   },
 ];
